@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listnhanvien>
+  <nhanvien>
+    <manv>1</manv>
+    <tennv>A</tennv>
+    <ngaysinh>0101</ngaysinh>
+    <diachi>HN</diachi>
+    <email>1@gmail.com</email>
+    <dienthoai>1</dienthoai>
+  </nhanvien>
+  <nhanvien>
+    <manv>2</manv>
+    <tennv>B</tennv>
+    <ngaysinh>0202</ngaysinh>
+    <diachi>HN</diachi>
+    <email>2@gmail.com</email>
+    <dienthoai>2</dienthoai>
+  </nhanvien>
+  <nhanvien>
+    <manv>3</manv>
+    <tennv>C</tennv>
+    <ngaysinh>0303</ngaysinh>
+    <diachi>HN</diachi>
+    <email>3@gmail.com</email>
+    <dienthoai>3</dienthoai>
+  </nhanvien>
+  <nhanvien>
+    <manv>4</manv>
+    <tennv>D</tennv>
+    <ngaysinh>0404</ngaysinh>
+    <diachi>HN</diachi>
+    <email>4@gmail.com</email>
+    <dienthoai>4</dienthoai>
+  </nhanvien>
+  <nhanvien>
+    <manv>NV01</manv>
+    <tennv>NVA</tennv>
+    <ngaysinh>30-01-2004</ngaysinh>
+    <diachi>HN</diachi>
+    <email>hn@gmail.com</email>
+    <dienthoai>01235565432</dienthoai>
+  </nhanvien>
+</listnhanvien>
